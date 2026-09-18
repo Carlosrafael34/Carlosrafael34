@@ -5,6 +5,6 @@ olá pessoal
    <p>
     O que eu estou estudando <br>
      <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="100">
-     <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1920px-Javascript-shield.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="90">
+     <img src="https://images.icon-icons.com/2415/PNG/512/javascript_original_logo_icon_146455.png" width="90">
    </p>
  

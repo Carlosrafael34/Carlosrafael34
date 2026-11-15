@@ -29,29 +29,7 @@
 
 </div>
 
----
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Carlosrafael34&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosrafael34&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🐍 Minhas contribuições
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Carlosrafael34/Carlosrafael34/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
----
 
 <div align="center">
 
